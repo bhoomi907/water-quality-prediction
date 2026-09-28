@@ -33,5 +33,5 @@ The pipeline generates regression metrics, classification evaluation indicators,
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/bhoomi907/water-quality-prediction.git](https://github.com/bhoomi907/water-quality-prediction.git)
+  git clone https://github.com/bhoomi907/water-quality-prediction.git
    cd water-quality-prediction
