@@ -1,0 +1,20 @@
+
+=========================================================
+            WATER QUALITY ANALYSIS SUMMARY REPORT        
+=========================================================
+[1] REGRESSION ACCURACY METRICS:
+    - Model Accuracy (R2 Score) : 94.22%
+    - Root Mean Squared Error   : 0.2269 mg/L
+    - Mean Absolute Error       : 0.1856 mg/L
+
+[2] CLASSIFICATION EVALUATION METRICS:
+    - Accuracy  : 96.00%
+    - Precision : 0.9608
+    - Recall    : 0.9600
+    - F1-Score  : 0.9600
+
+[3] WATER QUALITY RISK DISTRIBUTION (Predicted Test Samples):
+    - Safe / Good (DO >= 7.0)     : 98 samples
+    - Moderate / Caution (5-7)   : 102 samples
+    - Critical / Hypoxic (< 5.0)  : 0 samples
+=========================================================
